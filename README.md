@@ -157,7 +157,8 @@ customer-shopping-behavior/
 ├── dashboard/
 │   └── customer_behavior.pbix         
 │   └── customer_shopping_behavior_Analysis.pdf            
-│   └── customer_shopping_behavior_Analysis.txt    
+│   └── customer_shopping_behavior_Analysis.pptx
+    
 │
 ├── assets/
 │   └── dashboard_preview.png          
